@@ -1,5 +1,5 @@
-LATEX_FILE = cijo-resume
-TARGET_FILE = cijo-resume
+LATEX_FILE = resume
+TARGET_FILE = resume
 
 all: $(TARGET_FILE).pdf
 
